@@ -1,5 +1,4 @@
 import express from 'express';
-import path from 'path';
 import studentsRoutes from './src/routes/students.routes';
 import professorsRoutes from './src/routes/professors.routes';
 import coursesRoutes from './src/routes/courses.routes';
